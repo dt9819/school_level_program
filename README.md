@@ -18,6 +18,9 @@ I am Using Python to implement Logic Programming.
                    = n(2 + (n-1)2)/2
                    = n(1 + n - 1)
                    = n^2
+                   
+        So, the sum of the first n odd numbers is n^2.
+        
         But using standard formulae is annoying, so how about trying a little induction.
 
         sum_odd(1) = 1
@@ -35,3 +38,10 @@ I am Using Python to implement Logic Programming.
                            152364 => 1 + 5 + 2 + 3 + 6 + 4 => 21 => 2 + 1 => 3 is not a perfect square.
   
  ## Program to Check if a number is Perfect Square (implemented in Python)
+ 
+ 
+ # Problem 2: Program to take the lower limit and upper limit of the range (natural no) as inputs and calculate!
+
+# i. Square sum of those interval numbers 
+# ii. Show the odd numbers only within the interval
+# iii. Determine the average of those numbers.
