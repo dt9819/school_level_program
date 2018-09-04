@@ -34,4 +34,4 @@ I am Using Python to implement Logic Programming.
                            100 => 1 + 0 + 0 => 1 is a perfect square
                            152364 => 1 + 5 + 2 + 3 + 6 + 4 => 21 => 2 + 1 => 3 is not a perfect square.
   
-  ## Program to Check if a number is Perfect Square (implemented in Python)
+ - ![#f03c15](https://placehold.it/15/f03c15/000000?## Program to Check if a number is Perfect Square (implemented in Python)=+) `#f03c15` 
